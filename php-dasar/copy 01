@@ -1,0 +1,19 @@
+<?php
+// print, hanya menerima 1 argumen saja
+print("Hello world");=kirim 1 nilai
+
+echo "\n";
+
+// Echo, Bisa menerima lebih dari 1 argumen
+echo "Hello wordl";
+contoh 1 argumen
+echo "Hello", "world";=kirim 2 kata atau 2 nilai
+echo "Hello"," ","world";=kirim 2 nilai
+echo "\n";
+
+// print_r
+print_r("Hello world");
+
+
+
+?>
